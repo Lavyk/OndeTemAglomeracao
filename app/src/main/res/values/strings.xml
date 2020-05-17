@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aglomeracao</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="access_token">pk.eyJ1IjoibGF2eWsiLCJhIjoiY2swaTdzaWVjMDYzbTNtazJmNTZhZnczZSJ9.T5Sd9Qso_4QfbcI-9EKPwg</string>
+    <string name="user_location_permission_not_granted">Permissão negada</string>
+    <string name="user_location_permission_explanation">Procurando localização.</string>
+</resources>
